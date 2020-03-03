@@ -3,37 +3,55 @@
             padding: 0;
         }
     	h1,h2,h3{
+             font-family: 'Orbitron', sans-serif;
     		text-align: center;
-    		color: lightblue;    	
+    		color: grey;    	
     	}    
+        h1{
+            text-align: left;
+        }
+        h2{
+            
+        }
     	h3{
     		color: grey;
-    		font-family: 'Lemonada', cursive;
+    		
     	}
     	p{
     		text-align: justify;
-    		word-spacing: 2px;
-    		font-family: 'Russo One', sans-serif;    		
+    		word-spacing: 4px;
+    		font-family: 'Orbitron', sans-serif; 
+            color: white;		
 
     	}
         #diferentinho{
-            text-align: center;
-            font-family: 'Orbitron', sans-serif;
-            color: red;
+            color: white;
         }
         .par_gang{
-            text-align: center;
-            color: #1831AE;
-            font-family: 'Bangers', cursive;
+            color: white;
+           
         }
         span{
             color: orange;
             font-family: 'Russo One', sans-serif;
         }
         header{
-            border: 10px groove red;
-            background-color: orange;
+            /*border: 10px groove orange;*/
+            background-color: black;
             padding: 10px;
-            margin-right: 500px;
-            margin-left: 500px;
+            margin-right: 0px;
+            margin-left: 0px;
         }
+        body{
+            background-image: url("https://3.bp.blogspot.com/-FCWM6DaA9Z0/XHKV0tcHI8I/AAAAAAAAC0Y/GwlFp0FkVh0PkohEj0BvXwVFy3P2CyNdgCKgBGAs/w1920-h1200-c/colorful-dark-abstract-polygon-3d-4k-39.jpg width=70% height=70%");
+        }
+        footer{
+            background-color: black;
+            padding: 20px 0px 20px 0px;
+
+        }
+        #a{
+           :20px;
+        }
+
+        
